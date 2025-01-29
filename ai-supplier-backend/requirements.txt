@@ -1,0 +1,12 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+python-dotenv==1.0.1
+langgraph==0.0.26
+langchain==0.1.9
+langchain-openai==0.0.6
+supabase==2.3.4
+python-jose==3.3.0
+passlib==1.7.4
+python-multipart==0.0.9
+tenacity==8.2.3
+regex==2023.12.25
